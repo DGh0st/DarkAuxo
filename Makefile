@@ -1,9 +1,9 @@
 export ARCHS = armv7 arm64
 export TARGET = iphone:clang:latest:latest
 
-PACKAGE_VERSION = 0.0.2
+PACKAGE_VERSION = 0.0.4
 
-include theos/makefiles/common.mk
+include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = DarkAuxo
 DarkAuxo_FILES = Tweak.xm

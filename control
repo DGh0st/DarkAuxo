@@ -1,9 +1,9 @@
 Package: com.dgh0st.darkauxo
-Name: DarkAuxo(CC)
+Name: DarkAuxo(CC & NC)
 Depends: mobilesubstrate
-Version: 0.0.2
+Version: 0.0.4
 Architecture: iphoneos-arm
-Description: Makes Auxo LE dark.
+Description: Makes Auxo LE dark, works with regular CC and NC (iOS 9 only) as well.
 Maintainer: DGh0st <deeppwnage@yahoo.com>
 Author: DGh0st <deeppwnage@yahoo.com>
 Section: Tweaks
